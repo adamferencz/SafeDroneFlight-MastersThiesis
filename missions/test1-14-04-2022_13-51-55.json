@@ -1,0 +1,104 @@
+[
+    {
+        "latitude": 47.641463528561985,
+        "longitude": -122.14016840182063,
+        "altitude": null,
+        "metres_x": -0.25,
+        "metres_y": -0.5,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 399.0,
+        "visual_y": 402.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    },
+    {
+        "latitude": 47.64174247730362,
+        "longitude": -122.14017048128066,
+        "altitude": null,
+        "metres_x": -0.75,
+        "metres_y": 30.5,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 397.0,
+        "visual_y": 278.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    },
+    {
+        "latitude": 47.64195839898788,
+        "longitude": -122.14016693804868,
+        "altitude": null,
+        "metres_x": -0.75,
+        "metres_y": 54.5,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 397.0,
+        "visual_y": 182.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    },
+    {
+        "latitude": 47.64215892558223,
+        "longitude": -122.1402102462729,
+        "altitude": null,
+        "metres_x": -4.25,
+        "metres_y": 76.75,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 383.0,
+        "visual_y": 93.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    },
+    {
+        "latitude": 47.64219438416125,
+        "longitude": -122.14043933040547,
+        "altitude": null,
+        "metres_x": -21.5,
+        "metres_y": 80.5,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 314.0,
+        "visual_y": 78.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    },
+    {
+        "latitude": 47.64218938189528,
+        "longitude": -122.14067240691533,
+        "altitude": null,
+        "metres_x": -39.0,
+        "metres_y": 79.75,
+        "metres_z": 3.4000000000000012,
+        "visual_x": 244.0,
+        "visual_y": 81.0,
+        "transformer.width": 800,
+        "transformer.height": 800,
+        "transformer.zoom": 0.04,
+        "transformer.center_latlon": [
+            47.641468,
+            -122.140165
+        ]
+    }
+]
